@@ -9,3 +9,7 @@ A Chrome extension that illustrate the use of JavaScript language
 -localStorage
 -The JSON object
 -Objects in Arrays
+
+
+
+SAVE TAB - you have to double click the button
