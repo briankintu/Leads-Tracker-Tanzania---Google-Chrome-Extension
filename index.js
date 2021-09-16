@@ -78,7 +78,7 @@ if(leadsFromLocalStorage)
 
 
 const tabs = [ {
-    url: "https://www.linkedincom/in/per-herald-borgen/"
+    url: "https://www.linkedin.com/in/brian-richard-34027854/"
 }]
 inputBtn.addEventListener("click", function() {
     //Push  the value from the inputEl into the myLeades array
