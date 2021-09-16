@@ -1,0 +1,14 @@
+{
+"manifest_version": 3,
+"version": "2.1",
+"name": "Leads tracker Tanzania",
+"description": "This is a smiple leads tracker to store url",
+"action" : {
+      "default_popup": "index.html",
+      "default_icon":"icon.png"
+
+},
+"permissions": [
+      "tabs"
+]
+}
